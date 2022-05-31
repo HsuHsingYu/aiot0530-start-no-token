@@ -88,6 +88,9 @@ delete .git and git remote add origin master github.com/xxxxx
 最後完成的heroku網址: https://aiot0531hhy.herokuapp.com
 * 點擊網址進入後的畫面
 ![](pic8.png)
+* 點擊 SetRandom
+![](setrandom.png)
+* 點擊 Call AI
 
 
 
