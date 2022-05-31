@@ -86,6 +86,9 @@ delete .git and git remote add origin master github.com/xxxxx
 ### step 10: Complete
 
 最後完成的heroku網址: https://aiot0531hhy.herokuapp.com
+* 點擊網址進入後的畫面
+![](pic8.png)
+
 
 
 
