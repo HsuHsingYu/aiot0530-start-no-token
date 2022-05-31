@@ -10,6 +10,9 @@
 * 推送至github建立新的aiot repository
 
 ### step 1 : Clone this github
+```
+git clone https://github.com/huanchen1107/aiot0530-start-no-token
+```
 
 ### step 2 : install some package
 * 開始終端機(ctrl+shift+`)並輸入以下程式碼
