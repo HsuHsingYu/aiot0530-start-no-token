@@ -89,9 +89,9 @@ delete .git and git remote add origin master github.com/xxxxx
 * 點擊網址進入後的畫面
 ![](picture8.png)
 * 點擊 SetRandom
-![](setrandom.png)
+![](setrandom11.png)
 * 點擊 Call AI
-![](callAI.png)
+![](callAI11.png)
 
 
 
