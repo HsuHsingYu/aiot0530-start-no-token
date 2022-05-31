@@ -66,13 +66,13 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### step 8: deploy to github (new public github repository)
 
 delete .git and git remote add origin master github.com/xxxxx
-* 註:在step0的時候，就已經先將原本的git刪除，並重新建立public 的github repositoy了，所以直接使用目前的github repository
+* 註:在step0的時候，就已經先將原本的git刪除，並重新建立public的github repositoy了，所以直接使用目前的github repository即可
 
 
 ### step 9: Heroku deploy from github
 * 進入heroku裡，選擇剛剛建立的app後點選deploy
 * 連結到github
-![image](deploy.png)
+![image](deploy-redacted_dot_app.png)
 * 選擇現在用的repositoy(aiot0531)
 * 選enable automatic deploys
 ![image](pic6.png)
