@@ -23,7 +23,8 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 * go to dashboard
 * new an app
 * go to resource and add-on an Heroku postgredb
-
+    * 選擇 heroku postgred來建立資料庫
+    * 打開資料庫的相關資訊
 ### step 4: login to heroku pstgredb using HeidiSQL
 
 
@@ -35,19 +36,19 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
-
+* 將db資料夾中的postgres.sql匯入資料庫中(他會跑比較久)
 
 ### step 6: setting db in app.py
-
 
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
-
 ```
+
 ### step 7: testing locally by running python app.py
+* 按ctrl+shift+`開啟終端機輸入 python app.py來測試local (因為是遠端的所以會比較慢)
 
 ### step 8: deploy to github (new private github repositoy)
 
