@@ -74,6 +74,8 @@ delete .git and git remote add origin master github.com/xxxxx
 ![image](pic6.png)
 * 再點deploy branch
 ![image](pic7.png)
+* 就可以看到正在build
+![image](build.png)
 
 ### step 10: Complete
 
