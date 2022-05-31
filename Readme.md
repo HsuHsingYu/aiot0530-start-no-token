@@ -12,7 +12,7 @@
 ### step 1 : Clone this github
 
 ### step 2 : install some package
-
+* 開始終端機(ctrl+shift+`)並輸入以下程式碼
 ```python
 pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy 
 ```
