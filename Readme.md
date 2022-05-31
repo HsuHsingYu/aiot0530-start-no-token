@@ -60,7 +60,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 * 測試成功
 ![image](pic5.png)
 
-### step 8: deploy to github (new private github repositoy)
+### step 8: deploy to github (new public github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
 
