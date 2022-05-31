@@ -29,7 +29,7 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
     ![image](pic2.png)
 
 ### step 4: login to heroku pstgredb using HeidiSQL
-* 新建輸入網址名稱 (xxxx.herokuapp.com)
+* 新建輸入網址名稱 (aiot0531hhy.herokuapp.com)
 * 網路類型選PostgreSQL
 * 其他按照step3的資料庫資訊打
 ```sql
