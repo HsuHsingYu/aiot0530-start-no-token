@@ -42,6 +42,9 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### step 5: import postgredb (in db/postgre.db)
 * 將db資料夾中的postgres.sql匯入資料庫中(他會跑比較久)
 
+完成後的結果
+![image](pic3.png)
+
 ### step 6: setting db in app.py
 * 修改db的相關資訊(填入step3的db資訊)
 ```sql
