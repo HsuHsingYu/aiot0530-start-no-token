@@ -13,9 +13,8 @@
 
 ### step 2 : install some package
 
-
 ```python
-pip insall gunicorn   
+pip install gunicorn   
 Flask==2.0.1 
 Jinja2==3.0.1 
 psycopg2 
