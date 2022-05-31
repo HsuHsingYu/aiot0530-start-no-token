@@ -53,16 +53,17 @@ myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
-![image](pic4.png)
+![image](pic4-redacted_dot_app.png)
 
 ### step 7: testing locally by running python app.py
 * 按ctrl+shift+`開啟終端機輸入 python app.py來測試local (因為是遠端的所以會比較慢)
 * 測試成功
 ![image](pic5.png)
 
-### step 8: deploy to github (new public github repositoy)
+### step 8: deploy to github (new public github repository)
 
 delete .git and git remote add origin master github.com/xxxxx
+* 註:在step0的時候，就已經先將原本的git刪除，並重新建立public 的github repositoy了，所以直接使用目前的github repository
 
 
 ### step 9: Heroku deploy from github
