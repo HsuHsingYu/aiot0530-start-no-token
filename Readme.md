@@ -66,6 +66,9 @@ delete .git and git remote add origin master github.com/xxxxx
 
 
 ### step 9: Heroku deploy from github
+* 進入heroku裡，選擇剛剛建立的app後點選deploy
+* 連結到github
+![image](deploy.png)
 
 ### step 10: Complete
 
