@@ -72,7 +72,8 @@ delete .git and git remote add origin master github.com/xxxxx
 * 選擇現在用的repositoy(aiot0531)
 * 選enable automatic deploys
 ![image](pic6.png)
-
+* 再點deploy branch
+![image](pic7.png)
 
 ### step 10: Complete
 
