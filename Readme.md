@@ -53,6 +53,7 @@ myuser="<fill-in-Heroku-Postgredb-DB-user>"
 mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
+![image](pic4.png)
 
 ### step 7: testing locally by running python app.py
 * 按ctrl+shift+`開啟終端機輸入 python app.py來測試local (因為是遠端的所以會比較慢)
