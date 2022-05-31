@@ -76,6 +76,8 @@ delete .git and git remote add origin master github.com/xxxxx
 ![image](pic7.png)
 * 就可以看到正在build
 ![image](build.png)
+* 完成
+![image](finish.png)
 
 ### step 10: Complete
 
