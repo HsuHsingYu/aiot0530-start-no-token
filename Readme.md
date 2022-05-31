@@ -91,6 +91,7 @@ delete .git and git remote add origin master github.com/xxxxx
 * 點擊 SetRandom
 ![](setrandom.png)
 * 點擊 Call AI
+![](callAI.png)
 
 
 
