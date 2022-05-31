@@ -69,6 +69,10 @@ delete .git and git remote add origin master github.com/xxxxx
 * 進入heroku裡，選擇剛剛建立的app後點選deploy
 * 連結到github
 ![image](deploy.png)
+* 選擇現在用的repositoy(aiot0531)
+* 選enable automatic deploys
+![image](pic6.png)
+
 
 ### step 10: Complete
 
