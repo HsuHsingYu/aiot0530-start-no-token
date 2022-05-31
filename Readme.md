@@ -57,6 +57,8 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ### step 7: testing locally by running python app.py
 * 按ctrl+shift+`開啟終端機輸入 python app.py來測試local (因為是遠端的所以會比較慢)
+* 測試成功
+![image](pic5.png)
 
 ### step 8: deploy to github (new private github repositoy)
 
