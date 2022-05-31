@@ -85,11 +85,8 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+最後完成的heroku網址: aiot0531hhy.herokuapp.com
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
 
 
 
