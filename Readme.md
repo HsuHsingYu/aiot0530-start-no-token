@@ -30,9 +30,9 @@ pip install gunicorn Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
     ![image](pic1.png)
     * 打開資料庫的相關資訊 (點擊view credentials...)
     ![image](pic2.png)
-    `p.s 由於
+p.s 由於
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/92151140/173181769-d2a29b5e-b00e-4a38-b446-15e1b6da7256.png">  
-所以若無法成功跑出折線圖則需將程式修改為新的credentials資訊`
+所以若無法成功跑出折線圖則需將程式修改為新的credentials資訊
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 * 新建輸入網址名稱 (aiot0531hhy.herokuapp.com)
