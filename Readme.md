@@ -88,8 +88,9 @@ delete .git and git remote add origin master github.com/xxxxx
 
 ### step 10: Complete
 
-最後完成的heroku網址: https://aiot0531hhy.herokuapp.com
-
+最後完成的heroku網址: https://aiot0531hhy.herokuapp.com  
+DEMO  
+![Highcharts MyDemo 5_17 11_29 - Google Chrome 2022-06-19 13-36-19_](https://user-images.githubusercontent.com/92151140/174467488-b2ec81da-b5b7-455b-8222-9d4c3a04f219.gif)
 
 * 點擊網址進入後的畫面
 ![](picture8.png)
